@@ -30,13 +30,18 @@
 # a=tuple(b)
 # print(a)
  ##         set
-a={23,'era',234,234}
+# a={23,'era',234,234}
 # print(a)
 # b=set(('saran',123,2345))
 # print(b)
 # print(type(b))
-a.update("sra")
-print(a)
-
-
-
+# a.update("sra")////// to add a single
+# print(a)
+# a={1,2,3,4}
+# b=['sara']    /////////// to add a word
+# a.update(b)
+# print(a)
+a={2,12,234,234,'saran'}
+for i in a:
+    print(i)
+    
