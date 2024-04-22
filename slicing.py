@@ -12,7 +12,20 @@
 # b.append('saran')
 # a=tuple(b)
 # print(a)
-a=(12,34,45,234,345,)
-b=(1,)
-a+=b
-print(a)
+# a=(12,34,45,234,345,)
+# b=(1,)
+# a+=b
+# print(a)
+# a=('saran','ZARA','tech')
+# a=a*3 # to print multi lines 
+# # print(a)
+# a=('sar','car','var','har')
+# for i in a:
+#     print(i)
+# for i in range(len(a)):
+#     print(a)
+# a=('as','frtrt','rty',123)
+# b=list(a)
+# b.remove(123)
+# a=tuple(b)
+# print(a)
