@@ -29,3 +29,14 @@
 # b.remove(123)
 # a=tuple(b)
 # print(a)
+ ##         set
+a={23,'era',234,234}
+# print(a)
+# b=set(('saran',123,2345))
+# print(b)
+# print(type(b))
+a.update("sra")
+print(a)
+
+
+
