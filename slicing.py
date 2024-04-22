@@ -41,7 +41,8 @@
 # b=['sara']    /////////// to add a word
 # a.update(b)
 # print(a)
-a={2,12,234,234,'saran'}
-for i in a:
-    print(i)
-    
+# a={2,12,234,234,'saran'}
+# for i in a:
+#     print(i)
+# b={12,24,123,1234}
+# print( 12 in b )
