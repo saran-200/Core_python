@@ -7,8 +7,8 @@
 # print('modlues is ', a%b)
 
 #milages 
-fuel=int(input('enter the no of litres had taken  :'))
-kms=int(input('no of kms traveled :'))
-print('ur millages is ', fuel/kms)
+# fuel=int(input('enter the no of litres had taken  :'))
+# kms=int(input('no of kms traveled :'))
+# print('ur millages is ', fuel/kms)
 
 
