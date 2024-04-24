@@ -25,10 +25,21 @@
        intital wid integer,spl characters,and indentations 
 ========================================>OOPS<==================
 object oriented programming structure
-  Types====>5:
-    ==>single 1-1
-    ==>multi level 1-2-3-4
-    ==> multiple  1-2,1-2-3,1-3-4
-    ==>hybrid  1-2,1-3,1-4
-    ==>hierachical 1-2,2-1,1-3,2-3,2-4,1-4,4-1,2-4
-  
+  Types:
+    object
+    classs
+    inheritance
+      Types====>5:
+        ==>single 1-1
+        ==>multi level 1-2-3-4
+        ==> multiple  1-2,1-2-3,1-3-4
+        ==>hybrid  1-2,1-3,1-4
+        ==>hierachical 1-2,2-1,1-3,2-3,2-4,1-4,4-1,2-4
+    encapsulation
+      getter ,setter
+    abstraction
+       
+    polymhorpisum
+       overloading(compile time)
+       overriding(runtime)
+      
