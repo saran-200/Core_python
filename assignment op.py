@@ -10,5 +10,3 @@
 a=int(input('enter the no of tickets required : '))
 ticktes=a*120
 print("your ticket price is",ticktes ,"for",a ,"tickets")
-
-""
