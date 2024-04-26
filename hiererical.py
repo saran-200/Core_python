@@ -14,7 +14,7 @@ class smart(stock):
         self.product=array('i')
         self.product.extend(hey)   
 class DMART(stock):
-    def __init__(self,hai) :
+    def __init__(self,hai):
         self.product=array('i')
         self.product.extend(hai)
     def getbyposition(self,start,stop):
