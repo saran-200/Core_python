@@ -1,0 +1,10 @@
+s={12,34,6,7,78}
+a=list(s)
+print(a)
+print(a[2])
+s.add(121)
+print(s)
+s.remove(121)
+print(s)
+s.pop()
+print(s)
