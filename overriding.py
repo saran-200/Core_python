@@ -1,3 +1,4 @@
+# overriding (same function name and same parameters)
 class sam:
     def name(self):
         print("sam")

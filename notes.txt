@@ -40,6 +40,6 @@ object oriented programming structure
     abstraction
        
     polymhorpisum
-       overloading(compile time)
-       overriding(runtime)
+       overloading(compile time) ====> same function name and different parameters
+       overriding(runtime) ====> same function name and same parameters
       
