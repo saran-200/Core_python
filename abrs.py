@@ -27,10 +27,8 @@ class falcon(ABC):
     #abstract fun
     def heythere(self):
         pass
-
 class winter(falcon):
     def heythere(self):
         print(self.mine)
-
 win=winter()
 win.heythere()
