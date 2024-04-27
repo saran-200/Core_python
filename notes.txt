@@ -43,3 +43,9 @@ object oriented programming structure
        overloading(compile time) ====> same function name and different parameters
        overriding(runtime) ====> same function name and same parameters
       
+======> ERROR handleling <===========
+To handle the error and give a another choice to them and make them to run and excute from the beginning 
+ It has three parts such as :   (try,except,final)
+ try is true then it excute try and exit 
+ if try part is false or contains any error then they return to the except part and run the the certain codes
+ 
