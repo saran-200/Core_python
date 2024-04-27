@@ -42,3 +42,17 @@
 #     ind=int(input("index pls: "))
 # finally:
 #     print("thank you welcome again")
+
+# key error 
+
+# a={"name":['saran','virat','king','hitman','MSD','jaddu'],
+#    "runs":[1234,8000,7999,6500,5400,5300],
+#    "age":[23,37,35,38,42,40],
+#    "native":["salem",'beg','cbe','mub','che','pune']}
+# try:
+#     p=(input("enter  the key:"))
+#     print(a[p])
+# except Exception as e:
+#     print("keyerorr")
+#     pr=(input("index pls"))
+
