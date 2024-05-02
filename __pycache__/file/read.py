@@ -1,0 +1,5 @@
+da=open("./beddy.txt",'a+w')
+print(da.name)
+# da.write("welcome ")
+a=da.readable()
+print(da)
