@@ -1,5 +1,4 @@
-da=open("./beddy.txt",'a+w')
+da=open("./beddy.txt",'r')
 print(da.name)
-# da.write("welcome ")
-a=da.readable()
-print(da)
+print(da.read())# to print the files data 
+
