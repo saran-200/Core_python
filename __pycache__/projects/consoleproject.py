@@ -71,7 +71,7 @@ bookid= int(input('\nEnter BookId to deletebook: '))
 for book in books:
 
 
-    if book.get_bookid() == bookid:
+    if book.get_bookid()== bookid:
 
         books.remove(book)
         print('Record deleted')
