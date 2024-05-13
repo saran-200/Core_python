@@ -8,8 +8,6 @@
        8
      output:
          78      bcz of in the input cases they stored as a string as default (if we        	 want to get a integer we want to mention its datatype )
-
-
 ===> True and False [T&F shoudl be capital]
         
 ====> for print * methods we should use """"" end=("") """"
@@ -48,4 +46,4 @@ To handle the error and give a another choice to them and make them to run and e
  It has three parts such as :   (try,except,final)
  try is true then it excute try and exit 
  if try part is false or contains any error then they return to the except part and run the the certain codes
- 
+ always be smile always be smile 
